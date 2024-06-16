@@ -14,11 +14,11 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en t
 
 Crea un archivo `.env` en la raíz del proyecto y agrega las siguientes variables:
 
-PORT=8000
-ENV=development
-PG_USER=tu_usuario_postgres
-PG_PASSWORD=tu_contraseña_postgres
-PG_DB=nombre_de_tu_base_de_datos
+* PORT=8000
+* ENV=development
+* PG_USER=tu_usuario_postgres
+* PG_PASSWORD=tu_contraseña_postgres
+* PG_DB=nombre_de_tu_base_de_datos
 
 Reemplaza `tu_usuario_postgres`, `tu_contraseña_postgres` y `nombre_de_tu_base_de_datos` con la configuración adecuada para tu entorno.
 
